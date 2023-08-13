@@ -1,0 +1,58 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": [
+        {
+          "name": [
+            "audio/Fluffing-a-Duck.mp3"
+          ],
+          "srcs": [
+            "audio/Fluffing-a-Duck.mp3",
+            "audio/Fluffing-a-Duck.ogg"
+          ]
+        },
+        {
+          "name": [
+            "favicon.ico"
+          ],
+          "srcs": [
+            "favicon.ico"
+          ]
+        },
+        {
+          "name": [
+            "font/MinecraftTen.ttf"
+          ],
+          "srcs": [
+            "font/MinecraftTen.ttf"
+          ]
+        },
+        {
+          "name": [
+            "images/background.png"
+          ],
+          "srcs": [
+            "images/background.png"
+          ]
+        },
+        {
+          "name": [
+            "sprites/atlas.json"
+          ],
+          "srcs": [
+            "sprites/atlas.json"
+          ]
+        },
+        {
+          "name": [
+            "sprites/atlas.png"
+          ],
+          "srcs": [
+            "sprites/atlas.png"
+          ]
+        }
+      ]
+    }
+  ]
+}
